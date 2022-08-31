@@ -997,7 +997,7 @@ PrefabInstance:
     - target: {fileID: 2681616354049865816, guid: 287875a8b65a3c447a4656a2e48b002a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: b8e6a4d224a2c944db8e0ff710c738bc, type: 2}
+      objectReference: {fileID: 2100000, guid: 061feec499b77c94c865070f470e8417, type: 2}
     - target: {fileID: 3239241489059676985, guid: 287875a8b65a3c447a4656a2e48b002a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
@@ -1138,6 +1138,10 @@ PrefabInstance:
     - target: {fileID: 1019906556042041827, guid: 38bed178636525a4b9bf1fb084ea1db1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 2.5800018
+      objectReference: {fileID: 0}
+    - target: {fileID: 2192201092000227980, guid: 38bed178636525a4b9bf1fb084ea1db1, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2192201092000227980, guid: 38bed178636525a4b9bf1fb084ea1db1, type: 3}
       propertyPath: m_Materials.Array.data[0]
